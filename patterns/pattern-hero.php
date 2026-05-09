@@ -12,7 +12,7 @@
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"52%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:52%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.90)"}}} -->
-<p class="has-text-color" style="color:rgba(255,255,255,0.90)"><p class="has-text-color has-ink-2-background-color has-background has-border-color" style="border-color:rgba(255,255,255,0.15);border-width:1px;border-radius:999px;color:rgba(255,255,255,0.90);margin-top:0px;margin-bottom:0px;padding-top:7px;padding-right:16px;padding-bottom:7px;padding-left:16px;font-size:12px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase">Leadership Track · 8 Modules</p></p>
+<p class="has-text-color" style="color:rgba(255,255,255,0.90)"><div class="has-text-color" style="color:rgba(255,255,255,0.90)"><p class="has-text-color has-ink-2-background-color has-background has-border-color" style="border-color:rgba(255,255,255,0.15);border-width:1px;border-radius:999px;color:rgba(255,255,255,0.90);margin-top:0px;margin-bottom:0px;padding-top:7px;padding-right:16px;padding-bottom:7px;padding-left:16px;font-size:12px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase">Leadership Track · 8 Modules</p></div></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"clamp(44px, 5.5vw, 76px)","fontWeight":"700","lineHeight":"1.08","letterSpacing":"-0.025em"},"color":{"text":"#FFFFFF"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
@@ -34,22 +34,30 @@
 <!-- /wp:buttons -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"14px","margin":{"top":"var:preset|spacing|40","bottom":"0px"}}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
-<div class="wp-block-group"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"-8px"}}}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:0px"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"0","left":"0","top":"0","bottom":"0"},"blockGap":"0px"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"0","padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"50px"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"-8px"}}}} -->
 <figure class="wp-block-image size-thumbnail has-custom-border is-resized" style="margin-top:0;margin-right:-8px;margin-bottom:0;margin-left:0"><img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=80&amp;h=80&amp;fit=crop" alt="Manager course student" class="has-border-color" style="border-color:var(--wp--preset--color--ink);border-width:2px;border-radius:999px;object-fit:cover"/></figure>
-<!-- /wp:image -->
+<!-- /wp:image --></div>
+<!-- /wp:group -->
 
-<!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"-8px"}}}} -->
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"50px"}} -->
+<div class="wp-block-group"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"-8px"}}}} -->
 <figure class="wp-block-image size-thumbnail has-custom-border is-resized" style="margin-top:0;margin-right:-8px;margin-bottom:0;margin-left:0"><img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=80&amp;h=80&amp;fit=crop" alt="Manager course student" class="has-border-color" style="border-color:var(--wp--preset--color--ink);border-width:2px;border-radius:999px;object-fit:cover"/></figure>
-<!-- /wp:image -->
+<!-- /wp:image --></div>
+<!-- /wp:group -->
 
-<!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"-8px"}}}} -->
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"50px"}} -->
+<div class="wp-block-group"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"-8px"}}}} -->
 <figure class="wp-block-image size-thumbnail has-custom-border is-resized" style="margin-top:0;margin-right:-8px;margin-bottom:0;margin-left:0"><img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&amp;h=80&amp;fit=crop" alt="Manager course student" class="has-border-color" style="border-color:var(--wp--preset--color--ink);border-width:2px;border-radius:999px;object-fit:cover"/></figure>
-<!-- /wp:image -->
+<!-- /wp:image --></div>
+<!-- /wp:group -->
 
-<!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"50px"}} -->
+<div class="wp-block-group"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-resized","style":{"border":{"radius":"999px","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dink)","width":"2px"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
 <figure class="wp-block-image size-thumbnail has-custom-border is-resized" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&amp;h=80&amp;fit=crop" alt="Manager course student" class="has-border-color" style="border-color:var(--wp--preset--color--ink);border-width:2px;border-radius:999px;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"15px","lineHeight":"1.4"},"color":{"text":"rgba(255,255,255,0.70)"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
